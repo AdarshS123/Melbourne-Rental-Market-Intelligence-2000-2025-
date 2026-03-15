@@ -35,7 +35,7 @@ over 25 years. This project answers:
 
 ## 🖼 Screenshots
 
-![Dashboard](screenshot/Screenshot 2026-03-02 142109.png)
+screenshot/Screenshot 2026-03-02 142109.png
 
 
 ## 🚀 How to Use
