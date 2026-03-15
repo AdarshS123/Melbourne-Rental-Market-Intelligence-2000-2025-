@@ -34,7 +34,9 @@ over 25 years. This project answers:
 ```
 
 ## 🖼 Screenshots
-<!-- Add your dashboard screenshots here -->
+
+![Dashboard](screenshot/Screenshot 2026-03-02 142109.png)
+
 
 ## 🚀 How to Use
 1. Clone the repository
